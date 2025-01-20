@@ -1,1 +1,6 @@
 Ветка master отличается от ветки demo текстом в файле README.
+
+комиты:
+home task;
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
